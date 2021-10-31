@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/album/album.iml" filepath="$PROJECT_DIR$/album/album.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banco/banco.iml" filepath="$PROJECT_DIR$/banco/banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biblioteca/biblioteca.iml" filepath="$PROJECT_DIR$/biblioteca/biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/computacao_2_ufrj.iml" filepath="$PROJECT_DIR$/.idea/computacao_2_ufrj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/frequencia-e-soma/frequencia-e-soma.iml" filepath="$PROJECT_DIR$/frequencia-e-soma/frequencia-e-soma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grafica-impressoras/grafica-impressoras.iml" filepath="$PROJECT_DIR$/grafica-impressoras/grafica-impressoras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jogo-de-dados/jogo-de-dados.iml" filepath="$PROJECT_DIR$/jogo-de-dados/jogo-de-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jogo-online/jogo-online.iml" filepath="$PROJECT_DIR$/jogo-online/jogo-online.iml" />
+    </modules>
+  </component>
+</project>
