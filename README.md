@@ -1,6 +1,6 @@
-##Repositório Computação II - BCC - UFRJ
+# Repositório Computação II - BCC - UFRJ
 
-- ###Projetos desenvolvidos com base em conceitos de POO (Programação Orientada a Objetos) em Java:
+- ### Projetos desenvolvidos com base em conceitos de POO (Programação Orientada a Objetos) em Java:
 
 - #### Banco:
     - Banco que contém alguns tipos de contas e usuários, que podem ser gerentes ou correntistas
