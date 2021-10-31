@@ -2,14 +2,17 @@
 
 - ### Projetos desenvolvidos com base em conceitos de POO (Programação Orientada a Objetos) em Java:
 
+- #### Álbum:
+    - Contém figurinhas ou selos que são disponibilizados em pacotinhos.
+
 - #### Banco:
-    - Banco que contém alguns tipos de contas e usuários, que podem ser gerentes ou correntistas
+    - Banco que contém alguns tipos de contas e usuários, que podem ser gerentes ou correntistas.
 
 - #### Biblioteca:
     - Cadastro e controle de usuários em uma biblioteca, que disponibiliza empréstimo de livros.
 
 - #### Frequência | Soma:
-    - Teste para percorrer listas (otimização de código)
+    - Teste para percorrer listas (otimização de código).
 
 - #### Gráfica:
     - Gráfica que contém diferentes tipos de impressoras.
